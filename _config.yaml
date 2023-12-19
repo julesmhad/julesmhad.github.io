@@ -1,0 +1,10 @@
+title: Jules Mohammed
+description: Engineering Grad @ UofM, Unilorin | Microsoft | IBM | BEDC
+logo: /assets/images/favicon.ico
+permalink: pretty
+exclude: [".gitignore",
+            "Gemfile"]
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
