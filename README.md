@@ -1,3 +1,3 @@
-# julesam.github.io
+# julesmhad.github.io
 
-Personal Portfolio - Jules Moham
+Personal Portfolio - Jules Mohammed
